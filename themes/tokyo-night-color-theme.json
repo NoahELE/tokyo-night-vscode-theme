@@ -28,6 +28,9 @@
     },
     "struct": {
       "foreground": "#7dcfff"
+    },
+    "type": {
+      "foreground": "#7dcfff"
     }
   },
   "semanticClass": "tokyo-night",
