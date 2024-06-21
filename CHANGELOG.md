@@ -1,5 +1,11 @@
 # Release Notes
 
+## 1.0.3
+
+2024/6/21
+
+- Add const variable token color
+
 ## 1.0.2
 
 2024/6/21
