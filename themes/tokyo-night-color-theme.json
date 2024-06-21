@@ -17,6 +17,12 @@
     "variable": {
       "foreground": "#c0caf5"
     },
+    "variable.readonly": {
+      "foreground": "#ff9e64"
+    },
+    "variable.constant": {
+      "foreground": "#ff9e64"
+    },
     "const": {
       "foreground": "#ff9e64"
     },
