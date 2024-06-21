@@ -22,6 +22,12 @@
     },
     "constant": {
       "foreground": "#ff9e64"
+    },
+    "class": {
+      "foreground": "#7dcfff"
+    },
+    "struct": {
+      "foreground": "#7dcfff"
     }
   },
   "semanticClass": "tokyo-night",
@@ -158,8 +164,8 @@
     "editor.selectionHighlightBackground": "#515c7e44",
 
     "editorCursor.foreground": "#c0caf5",
-    "editorIndentGuide.background": "#1e202e",
-    "editorIndentGuide.activeBackground": "#363b54",
+    "editorIndentGuide.background1": "#1e202e",
+    "editorIndentGuide.activeBackground1": "#363b54",
     "editorLineNumber.foreground": "#363b54",
     "editorLineNumber.activeForeground": "#737aa2",
     "editor.lineHighlightBackground": "#1e202e",
