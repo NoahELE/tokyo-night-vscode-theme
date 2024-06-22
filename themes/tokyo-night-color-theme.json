@@ -892,7 +892,7 @@
       "name": "Class Name",
       "scope": "entity.name",
       "settings": {
-        "foreground": "#c0caf5"
+        "foreground": "#7dcfff"
       }
     },
     {

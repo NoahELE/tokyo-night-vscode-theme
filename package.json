@@ -54,7 +54,8 @@
   },
   "scripts": {
     "package": "vsce package",
-    "publish": "vsce publish"
+    "publish": "vsce publish",
+    "publish-minor": "vsce publish minor"
   },
   "devDependencies": {
     "@vscode/vsce": "^2.29.0"
