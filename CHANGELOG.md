@@ -1,5 +1,17 @@
 # Release Notes
 
+## 1.1.1
+
+2024/6/23
+
+- Modify colors
+
+## 1.1.0
+
+2024/6/22
+
+- Modify colors
+
 ## 1.0.4
 
 2024/6/22
