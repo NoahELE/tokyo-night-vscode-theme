@@ -9,10 +9,10 @@
       "foreground": "#e0af68"
     },
     "property": {
-      "foreground": "#73daca"
+      "foreground": "#c0caf5"
     },
     "field": {
-      "foreground": "#73daca"
+      "foreground": "#c0caf5"
     },
     "variable": {
       "foreground": "#c0caf5"
@@ -30,13 +30,13 @@
       "foreground": "#ff9e64"
     },
     "class": {
-      "foreground": "#7dcfff"
+      "foreground": "#73daca"
     },
     "struct": {
-      "foreground": "#7dcfff"
+      "foreground": "#73daca"
     },
     "type": {
-      "foreground": "#7dcfff"
+      "foreground": "#73daca"
     }
   },
   "semanticClass": "tokyo-night-storm",

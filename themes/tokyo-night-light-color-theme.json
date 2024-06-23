@@ -9,10 +9,10 @@
       "foreground": "#8f5e15"
     },
     "property": {
-      "foreground": "#33635c"
+      "foreground": "#343b58"
     },
     "field": {
-      "foreground": "#33635c"
+      "foreground": "#343b58"
     },
     "variable": {
       "foreground": "#343b58"
@@ -30,13 +30,13 @@
       "foreground": "#965027"
     },
     "class": {
-      "foreground": "#0f4b6e"
+      "foreground": "#33635c"
     },
     "struct": {
-      "foreground": "#0f4b6e"
+      "foreground": "#33635c"
     },
     "type": {
-      "foreground": "#0f4b6e"
+      "foreground": "#33635c"
     }
   },
   "semanticClass": "tokyo-night-light",
