@@ -5,38 +5,47 @@
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "parameter": {
-      "foreground": "#8f5e15"
-    },
-    "property": {
-      "foreground": "#343b58"
-    },
-    "field": {
-      "foreground": "#343b58"
-    },
-    "variable": {
-      "foreground": "#343b58"
-    },
-    "variable.readonly": {
-      "foreground": "#965027"
-    },
-    "variable.constant": {
-      "foreground": "#965027"
-    },
-    "const": {
-      "foreground": "#965027"
-    },
-    "constant": {
-      "foreground": "#965027"
+    "namespace": {
+      "foreground": "#166775"
     },
     "class": {
+      "foreground": "#33635c"
+    },
+    "enum": {
+      "foreground": "#33635c"
+    },
+    "interface": {
       "foreground": "#33635c"
     },
     "struct": {
       "foreground": "#33635c"
     },
+    "typeParameter": {
+      "foreground": "#33635c"
+    },
     "type": {
       "foreground": "#33635c"
+    },
+    "parameter": {
+      "foreground": "#343b58"
+    },
+    "variable": {
+      "foreground": "#343b58"
+    },
+    "property": {
+      "foreground": "#343b58"
+    },
+    "enumMember": {
+      "foreground": "#343b58"
+    },
+    "function": {
+      "foreground": "#34548a"
+    },
+    "method": {
+      "foreground": "#34548a"
+    },
+    "macro": {
+      "foreground": "#34548a"
     }
   },
   "semanticClass": "tokyo-night-light",

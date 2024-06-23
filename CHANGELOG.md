@@ -1,5 +1,11 @@
 # Release Notes
 
+## 1.1.2
+
+2024/6/23
+
+- Add more semantic highlighting
+
 ## 1.1.1
 
 2024/6/23
