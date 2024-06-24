@@ -5,6 +5,7 @@
   "version": "1.1.2",
   "publisher": "NoahELE",
   "license": "MIT",
+  "type": "module",
   "keywords": [
     "theme",
     "contrast",
@@ -38,21 +39,22 @@
       {
         "label": "Tokyo Night",
         "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night-color-theme.json"
+        "path": "./build/Tokyo Night.json"
       },
       {
         "label": "Tokyo Night Storm",
         "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night-storm-color-theme.json"
+        "path": "./build/Tokyo Night Storm.json"
       },
       {
         "label": "Tokyo Night Light",
         "uiTheme": "vs",
-        "path": "./themes/tokyo-night-light-color-theme.json"
+        "path": "./build/Tokyo Night Light.json"
       }
     ]
   },
   "scripts": {
+    "build": "tsx src/index.ts",
     "package": "vsce package",
     "publish": "vsce publish",
     "publish-patch": "vsce publish patch",
@@ -60,6 +62,10 @@
     "publish-major": "vsce publish major"
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.29.0"
+    "@moxer/vscode-theme-generator": "^1.21.0",
+    "@types/node": "^20.14.8",
+    "@vscode/vsce": "^2.29.0",
+    "tsx": "^4.15.7",
+    "typescript": "^5.5.2"
   }
 }

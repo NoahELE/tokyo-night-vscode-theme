@@ -1,5 +1,11 @@
 # Release Notes
 
+## 2.0.0
+
+2024/6/24
+
+- Use `@moxer/vscode-theme-generator` to generate theme
+
 ## 1.1.2
 
 2024/6/23
